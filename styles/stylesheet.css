@@ -1,0 +1,26 @@
+body {
+  font-size: 1em;
+  font-weight: normal;
+  font-family: Arial, sans-serif;
+  color: #000000;
+  text-align: left;
+  background-color: #1B5299;
+  color: #fff
+}
+  h1 {
+    font-size: 1.8em;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    border: 2px solid white;
+  }
+  h2{
+    color: #fff;
+    border: 2px solid white;
+  }
+  a{
+    text-decoration: none;
+    color: #fff;
+    border: 2px solid black;
+
+  }
