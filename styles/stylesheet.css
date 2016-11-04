@@ -4,7 +4,7 @@ body {
   font-family: Arial, sans-serif;
   color: #000000;
   text-align: left;
-  background-color: #1B5299;
+  background-color: #6791E5;
   color: #fff
 }
   h1 {
@@ -21,6 +21,7 @@ body {
   a{
     text-decoration: none;
     color: #fff;
-    border: 2px solid black;
+
+    border: 2px solid none;
 
   }
