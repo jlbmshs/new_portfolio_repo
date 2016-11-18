@@ -2,25 +2,25 @@ body {
   font-size: 1em;
   font-weight: normal;
   font-family: Arial, sans-serif;
-  color: #000000;
+  color: #2E5077;
   text-align: left;
-  background-color: #6791E5;
-  color: #fff
+  background-color: #E0E0E0;
+  color: #2E5077
 }
   h1 {
     font-size: 1.8em;
     font-weight: bold;
-    color: #fff;
+    color: #2E5077;
     text-align: center;
-    border: 2px solid white;
+    border: 2px solid #E0E0E0;
   }
   h2{
-    color: #fff;
-    border: 2px solid white;
+    color: #2E5077;
+    border: 2px solid #E0E0E0;
   }
   a{
     text-decoration: none;
-    color: #fff;
+    color: #2E5077;
 
     border: 2px solid none;
 
