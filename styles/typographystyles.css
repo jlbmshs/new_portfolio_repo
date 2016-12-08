@@ -92,19 +92,19 @@ section p {
 
 
 #weight1{
-  font-weight: 100;
+  font-weight: 200;
 }
 #weight2{
   font-weight: 300;
 }
 #weight3{
-  font-weight: 400;
+  font-weight: 300;
 }
 #weight4{
-  font-weight: 500;
+  font-weight: 400;
 }
 #weight5{
-  font-weight: 900;
+  font-weight: 800;
 }
 
 .weights {
@@ -128,15 +128,15 @@ section p {
   padding-top: 10%;
   max-width: 50%;
   text-transform: uppercase;
-  color: brown;
+  color: pink;
   font-family: 'Arial Black', serif;
   line-height: 0.9;
-  -webkit-text-stroke: thin black;
+  -webkit-text-stroke: thin blue;
 }
 
 #title, #gc {
-  font-weight: black;
-  text-shadow: 3px 3px 5px black;
+  font-weight: blue;
+  text-shadow: 2px 2px 7px blue;
   font-family: "Arial Black";
 }
 
@@ -153,8 +153,8 @@ section p {
 }
 
 #description, #url {
-  font-weight: black;
-  text-shadow: 2px 2px 3px black;
+  font-weight: yellow;
+  text-shadow: 2px 2px 3px blue;
   font-family: "Arial Black";
 
 
@@ -166,23 +166,23 @@ section p {
 }
 
 #url {
-  font-size: 20px;
-  padding-top: 25%;
+  font-size: 25px;
+  padding-top: 23%;
 }
 
 #unitProj {
   text-align: center;
   letter-spacing: 3px;
   font-size: 2em;
-  border: 3px solid black;
+  border: 3px solid blue;
   width: 60%;
   margin: 0 auto;
   background-color: #bbb;
   padding-bottom: 30px;
   color: #e81c4f;
-  text-shadow: 3px 3px black;
+  text-shadow: 3px 3px blue;
 }
 
 a {
-  text-decoration: none
+  text-decoration: overline;
 }
